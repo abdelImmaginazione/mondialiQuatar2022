@@ -1,0 +1,198 @@
+nav{
+    width:100%;
+    padding:0 30px;
+    background: rgb(151, 98, 204);
+}
+.menu{
+    list-style:none;
+}
+.menu li{
+    display:inline-block;
+    text-transform: uppercase;
+    font-size: 14px;
+    position: relative;
+}
+.menu a{
+    display: block;
+    padding: 15px 30px;
+    text-decoration: none;
+    color:white;
+    transition: .3s;
+}
+#inizio {
+   width:100%;
+   background-color:white;
+   font-size: 50px;
+   padding-bottom:10px;
+   padding-left:10px;
+   display:flex;
+   justify-content: center;
+}
+
+p{
+    margin-bottom:0 !important;
+}
+#fascia{
+    background-color: beige;
+    padding:10px;
+    border:1px solid black;
+}
+.riga{
+    display:flex;
+}
+.colonna {
+    flex:50%;
+    padding:10px;
+}
+#colonnaprima{
+height:100px;
+width:300px;
+background-color: rebeccapurple;
+display: flex;
+justify-content: center;
+} 
+
+#colonnaprima2{
+    height:300px;
+    width:350x;
+    background-color: rebeccapurple;
+   display:flex;
+   justify-content: space-around;
+    } 
+#gironi{
+    color: white;
+}
+#gironeA{
+    color:white
+}
+#gironeB{
+    color:white
+}
+#gironeC{
+    color:white
+}
+#gironeD{
+    color:white
+}
+#gironeE{
+    color:white
+}
+#gironeF{
+    color:white
+}
+#gironeG{
+    color:white
+}
+#gironeH{
+    color:white
+}
+html{
+    scroll-behavior: smooth;
+}
+#classifica{
+    color:white;
+}
+    
+#colonnaseconda{
+    height:300px;
+    width:350x;
+    background-color: rebeccapurple;
+   display:flex;
+   justify-content: space-around;
+}
+#olanda{
+    color: green;
+}
+#senegal{
+  color: green;  
+}
+#ecuador{
+    color: red;
+}
+#qatar{
+    color: red;
+}
+#statiuniti{
+    color: green;
+}
+#inghilterra{
+  color: green;  
+}
+#iran{
+    color: red;
+}
+#galles{
+    color: red;
+}
+#argentina{
+    color: green;
+}
+#polonia{
+  color: green;  
+}
+#messico{
+    color: red;
+}
+#arabiasaudita{
+    color: red;
+}
+#francia{
+    color: green;
+}
+#australia{
+  color: green;  
+}
+#tunisia{
+    color: red;
+}
+#danimarca{
+    color: red;
+}
+#giappone{
+    color: green;
+}
+#spagna{
+  color: green;  
+}
+#costarica{
+    color: red;
+}
+#germania{
+    color: red;
+}
+#marocco{
+    color: green;
+}
+#croazia{
+  color: green;  
+}
+#belgio{
+    color: red;
+}
+#canada{
+    color: red;
+}
+#brasile{
+    color: green;
+}
+#svizzera{
+  color: green;  
+}
+#camerun{
+    color: red;
+}
+#serbia{
+    color: red;
+}
+#portogallo{
+    color: green;
+}
+#coreadelsud{
+  color: green;  
+}
+#uruguay{
+    color: red;
+}
+#ghana{
+    color: red;
+}
